@@ -7,11 +7,12 @@ This project was completed using SQL, SQLAlchemy, Postgres, and Python. The test
 ## Installation
 
 Clone the git repo from
-https://github.com/roeggealissa/Movies_ETL.git
+
+``` https://github.com/roeggealissa/Movies_ETL.git ```
 
 Enter your postgres password in config.py
 
-db_password = 'YOUR PASSWORD HERE'
+``` db_password = 'YOUR PASSWORD HERE' ```
 
 ## Usage
 
